@@ -135,3 +135,4 @@ C:\Users\MINDBODYSOLE\Documents\Level 4 - coding class\StudentDirectory\api\obj\
 C:\Users\MINDBODYSOLE\Documents\Level 4 - coding class\StudentDirectory\api\obj\Debug\net8.0\API.pdb
 C:\Users\MINDBODYSOLE\Documents\Level 4 - coding class\StudentDirectory\api\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\MINDBODYSOLE\Documents\Level 4 - coding class\StudentDirectory\api\obj\Debug\net8.0\ref\API.dll
+C:\Users\MINDBODYSOLE\Documents\Level 4 - coding class\StudentDirectory\api\obj\Debug\net8.0\API.sourcelink.json
