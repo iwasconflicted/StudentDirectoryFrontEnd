@@ -12,7 +12,7 @@ export interface Student {
     id: number;
     name: string;
     address: string;
-    phoneNumber: string;
+    phoneNumber: number;
     email: string;
 }
 
@@ -120,8 +120,8 @@ const StudentTable = () => {
             <Td>{student.id}</Td>
               <Td>
                   <HStack>
-                      <Avatar size={'sm'} name={student.name}/>
-                      {/* <Text>{student.name}</Text> */}
+                    <Td>{student.name}</Td>
+                    {/* <Text>{student.name}</Text> */}
                   </HStack>
               </Td>
 
@@ -129,7 +129,7 @@ const StudentTable = () => {
             <Td>
 
 
-              <Badge>{student.phoneNumber}</Badge>
+              <Td>{student.phoneNumber}</Td>
             </Td>
             <Td>{student.email}</Td>
             <Td>
